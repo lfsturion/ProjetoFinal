@@ -1,6 +1,6 @@
-# ProjetoFinal da disciplina Desenvolvimento para Dispositivos Móveis II 
-# do curso Especialização em Desenvolvimento de Sistemas Web e Aplicativos Móveis
-# do professor Edivaldo Serafim
+# Disciplina Desenvolvimento para Dispositivos Móveis II 
+# Curso Especialização em Desenvolvimento de Sistemas Web e Aplicativos Móveis
+# Professor Edivaldo Serafim
 
 O projeto utiliza o banco de dados MariaDB que está sendo executado através do XAMPP.
 
